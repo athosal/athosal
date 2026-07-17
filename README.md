@@ -1,7 +1,6 @@
 
 - 🔭 Hoje trabalho com Shell Script, front-end.
 - 🌱 Estudando Python, Java Script, Ruby.
-- 📫 Contate-me no e-mail: athoslebre252@gmail.com
 - 😄 Pronome: ele/dele
 
 <div>
