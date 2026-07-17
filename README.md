@@ -35,6 +35,10 @@
 ###
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/athosal/athosal/main/github-metrics.svg" alt="Metrics dashboard" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api?username=athosal&show_icons=true&hide_border=true&theme=dark" height="170" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=athosal&hide_border=true&theme=dark" height="170" alt="GitHub streak" />
 </div>
