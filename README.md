@@ -38,10 +38,6 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/athosal/athosal/output-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
-</div>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athosal/athosal/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/athosal/athosal/output/github-snake.svg" />
