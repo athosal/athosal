@@ -32,3 +32,23 @@
 <img align="center" alt="Athos-SWIFT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 </div>        
 
+<div align="center">
+  <img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api?username=athosal&show_icons=true&hide_border=true&theme=dark" height="170" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=athosal&hide_border=true&theme=dark" height="170" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/athosal/athosal/output-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athosal/athosal/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/athosal/athosal/output/github-snake.svg" />
+    <img alt="Snake eating Subham's GitHub contribution grid" src="https://raw.githubusercontent.com/athosal/athosal/output/github-snake.svg" />
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=athosal&theme=dark&hide_border=true&area=true" alt="Contribution graph" />
+</div>
