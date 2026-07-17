@@ -34,9 +34,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/athosal/athosal/main/github-metrics.svg" alt="Metrics dashboard" />
-</div>
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=athosal&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
 
 <div align="center">
   <img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api?username=athosal&show_icons=true&hide_border=true&theme=dark" height="170" alt="GitHub stats" />
