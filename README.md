@@ -1,14 +1,4 @@
 
-- 🔭 Hoje trabalho com Shell Script, front-end.
-- 🌱 Estudando Python, Java Script, Ruby.
-- 😄 Pronome: ele/dele
-
-<div>
-<a href="https://github.com/athosal">
-<img height=180em" src="https://github-readme-stats.vercel.app/api?username=athosal&show_icons=true&theme=dark&incluede_all_commits=true&count_private=true"/> 
-<img height=180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athosal&layout=compact&langs_count=16&thema=dracula"/>
-</div>
-
 <div style="display: inline_block"><br>
 <img align="center" alt="Athos-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 <img align="center" alt="Athos-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -41,26 +31,4 @@
   <a href = "mailto:athoslebre252@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/athos-lebr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
-
-
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=athosal&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
-
-<div align="center">
-  <img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api?username=athosal&show_icons=true&hide_border=true&theme=dark" height="170" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=athosal&hide_border=true&theme=dark" height="170" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athosal/athosal/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/athosal/athosal/output/github-snake.svg" />
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=athosal&theme=dark&hide_border=true&area=true" alt="Contribution graph" />
 </div>
